@@ -19,4 +19,4 @@ It then calculates the maximum total value of a subarray of length k
 using the formula k * (max_val - min_val). 
 This works because the maximum total value of a subarray of length k is achieved when 
 all elements in the subarray are equal to the maximum value, 
-and the minimum value is subtracted from it to get the total value.''
+and the minimum value is subtracted from it to get the total value.'''
