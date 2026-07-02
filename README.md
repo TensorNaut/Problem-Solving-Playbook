@@ -1,80 +1,59 @@
-# 100-Days-of-Code 
+# Problem-Solving-Playbook
 
-Welcome to my **100 Days of Code** journey.
+Welcome to my **Problem-Solving Playbook**!
 
-This repository serves as a record of my commitment to solving coding problems consistently, improving my problem-solving skills, and strengthening my understanding of Data Structures & Algorithms.
-
----
-
-## About the Challenge
-
-This journey is inspired by the **#DrGViswanathan Challenge**, an initiative by the **Placement Cell of VIT Bhopal University**, encouraged by **Shriram Sir** to help students build discipline, consistency, and strong coding habits.
-
-The goal is simple:
-
-- Solve at least one coding problem every day.
-- Improve logical thinking and problem-solving abilities.
-- Learn common interview patterns and techniques.
-- Build consistency through daily practice.
-- Become placement-ready.
+This repository is a collection of coding problems I've solved while improving my problem-solving skills, strengthening my understanding of Data Structures & Algorithms, and preparing for technical interviews.
 
 ---
 
-## Repository Contents
+## About
 
-This repository contains solutions to coding problems solved throughout the challenge.
+This repository serves as my personal problem-solving journal where I document solutions, experiment with different approaches, and continue learning through practice.
 
-Problems may come from:
+It was initially inspired by the **#DrGViswanathan_Challenge**, an initiative by the **Placement Cell of VIT Bhopal University**, encouraged by **Shriram Sir** to help students build consistency and strong coding habits.
+
+Although the challenge sparked this journey, this repository is intended to grow as a long-term collection of my learning and problem-solving experience.
+
+---
+
+## Repository
+
+You'll find solutions to coding problems from various sources, including:
 
 - Coding platforms
-- Interview preparation sheets
-- Online assessments
-- Contests
-- Personal practice
+- Online Assessments
+- Technical Interview Questions
+- Competitive Programming
+- Personal Practice
 
-Topics include:
-
-- Arrays
-- Strings
-- Hashing
-- Two Pointers
-- Sliding Window
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Binary Search
-- Recursion & Backtracking
-- Heaps
-- Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Bit Manipulation
+As I continue learning, this repository will gradually expand with more problems, better approaches, and useful notes.
 
 ---
 
-## Progress
+## Purpose
 
-| Milestone | Status |
-|------------|---------|
-| Day 1 | ✅ |
-| Day 10 | ⏳ |
-| Day 25 | ⏳ |
-| Day 50 | ⏳ |
-| Day 75 | ⏳ |
-| Day 100 | ⏳ |
+This repository helps me:
 
----
-
-## Objective
-
-This repository is not about maintaining a streak.
-
-It is about developing the habit of solving problems consistently, learning efficient approaches, and becoming a better engineer every day.
+- Practice coding consistently
+- Improve logical thinking and problem-solving
+- Strengthen DSA fundamentals
+- Prepare for coding interviews and online assessments
+- Track my learning over time
 
 ---
 
-## Connect
+## Philosophy
 
-If you find a better solution or approach to any problem, feel free to open an issue or start a discussion.
+> *"Every problem solved is one more concept understood and one more step toward becoming a better engineer."*
 
-Happy Coding! 
+---
+
+## Contributing
+
+If you have a better approach or an optimization for any solution, feel free to open an issue or submit a pull request.
+
+Learning is always better when shared.
+
+---
+
+⭐ If you find this repository useful, consider giving it a star!
